@@ -41,7 +41,7 @@ def get_contributions():
         ("Kimberly", "Your fun fact"),
         ("Kelvin", "Your fun fact"),
         ("Rafael", "Your fun fact"),
-        ("Lennard", "Your fun fact"),
+        ("Lennard", "Ik ben kleurenblind"),
 
     ]
 
